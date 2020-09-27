@@ -18,3 +18,6 @@ version = 0.1
 [input]
 use_accelerometer = 0
 
+[html5]
+cssfile = /builtins/manifests/web/dark_theme.css
+
